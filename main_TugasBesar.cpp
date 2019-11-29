@@ -1,10 +1,3 @@
-/*Tugas Besar(UAS) Kelompok 7 IF-13, Komputer Grafika.
-Anggota Kelompok:
-        1. Benny Murwanto - 10108625
-        2. Arief Firmansyah - 10108607
-        3. Devi Eka Nainggolan - 10108622
-        4. Moch. Dendi Sukandi Yahya - 10107413
-*/
 
 #include <cstdlib>
 #include <iostream>
